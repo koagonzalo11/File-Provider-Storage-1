@@ -8,7 +8,7 @@ version: 2
 updates:
   # GitHub Actions updates
   - package-ecosystem: "github-actions"
-    directory: "/" # Location of .github/workflows
+    directory: "/"elparadisogonzalo # Location of .github/workflows
     schedule:
       interval: "weekly"
 
